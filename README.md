@@ -5,6 +5,8 @@
 
 Javadocs: PDP engine [![Javadocs](http://javadoc.io/badge/org.ow2.authzforce/authzforce-ce-core-pdp-engine.svg)](http://javadoc.io/doc/org.ow2.authzforce/authzforce-ce-core-pdp-engine), XACML/JSON extension [![Javadocs](http://javadoc.io/badge/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json.svg)](http://javadoc.io/doc/org.ow2.authzforce/authzforce-ce-core-pdp-io-xacml-json), Test utilities [![Javadocs](http://javadoc.io/badge/org.ow2.authzforce/authzforce-ce-core-pdp-testutils.svg)](http://javadoc.io/doc/org.ow2.authzforce/authzforce-ce-core-pdp-testutils)
 
+# This is a fork of gitlab AuthzForce Core PDP engine (Community Edition) project for demo purpose.
+
 # AuthzForce Core (Community Edition) 
 Authorization PDP (Policy Decision Point) engine implementing the [OASIS XACML v3.0](http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html).
 
